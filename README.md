@@ -1,3 +1,6 @@
+<img width="324" height="292" alt="image" src="https://github.com/user-attachments/assets/b9d7e8d9-d2c2-477d-8d97-095a2f120b2c" />
+
+
 # 🎞️ Sony Alpha Media AutoSorter
 
 **Sony Alpha Media AutoSorter** is a cross-platform Python tool that auto-detects your Sony camera SD and/or CF cards, sorts your media files into a clean folder structure, and supports full AVCHD/XAVC backups. Designed for photographers and videographers using Sony Alpha, FX, ZV, and RX series cameras, it speeds up your workflow: separating JPG and RAW files into `Photos/JPG` and `Photos/RAW` folders lets you instantly hand off client-ready images and deploy them to the cloud, and consolidating all clips into a single `Video/` folder makes your footage easy to locate and upload—no more digging through nested directories.

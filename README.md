@@ -24,17 +24,8 @@
 
 ## 📁 Example Folder Structure
 
-Destination_Folder/
-├── Video/
-│ └── C0001.MP4
-├── Photos/
-│ ├── RAW/
-│ │ └── DSC00001.ARW
-│ ├── JPG/
-│ │ └── DSC00001.JPG
-│ └── XMP/ ← optional sidecars
-├── Metadata/ ← optional (.XML, .THM)
-└── AVCHD/PRIVATE/ ← optional full folder copy
+<img width="430" height="223" alt="image" src="https://github.com/user-attachments/assets/e26d4e08-da32-4649-a114-cf2b1aacf8da" />
+
 
 ---
 
